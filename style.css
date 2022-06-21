@@ -1,0 +1,14 @@
+.center {
+    padding-top: 70px;
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    margin: auto;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: transparent;
+}
